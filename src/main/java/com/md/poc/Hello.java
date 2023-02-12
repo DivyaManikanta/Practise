@@ -11,6 +11,12 @@ public class Hello {
         System.out.println("output" + c);
          System.out.println("output thanks/...." );
         System.out.println("output thanks/...." );
+         m2();
+
+    }
+
+    public void m2()
+    {
 
     }
 }
