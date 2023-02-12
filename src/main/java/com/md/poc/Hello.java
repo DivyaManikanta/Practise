@@ -8,5 +8,6 @@ public class Hello {
         int a = 10, b = 20;
         int c = a + b + 50;
         System.out.println("output" + c);
+         System.out.println("output thanks/...." );
     }
 }
