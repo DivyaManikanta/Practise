@@ -13,6 +13,7 @@ public class Hello {
         System.out.println("output thanks/...." );
          m2();
 
+        System.out.println("output thanks/...." );
     }
 
     public void m2()
