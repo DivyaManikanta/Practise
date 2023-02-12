@@ -19,5 +19,6 @@ public class Hello {
     public void m2()
     {
 
+       System.out.println("output thanks/...." );
     }
 }
