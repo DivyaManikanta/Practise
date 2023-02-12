@@ -9,5 +9,7 @@ public class Hello {
         int c = a + b + 50;
         System.out.println("output" + c);
          System.out.println("output thanks/...." );
+        System.out.println("output thanks/...." );
+        
     }
 }
