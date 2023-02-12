@@ -8,6 +8,9 @@ public class PocApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PocApplication.class, args);
+		Hello hello = new Hello();
+		hello.m1();
+
 	}
 
 }
